@@ -8,17 +8,18 @@ h1 {color:#d1d8de;font-size:50px;font-weight:700;}
 #bannerwrap p {color:#d1d8de; font-weight: lighter;}
 .text-center {text-align:center}
 .profile {margin:5em 0}
-.padding-all {padding:20px}
-.padding-side {padding-left:20px;padding-right:20px} .mbs {margin-bottom:10px}.mbm{margin-bottom:15px}.mbl {margin-bottom:20px}.mbxl {margin-bottom:40px}.mtm {margin-top:10px}.mtl {margin-top:20px}.mtxl {margin-top:40px}.pll {padding-left:30px}.clear {clear:both}.space {margin:3em 0} 
+.padding-all {padding:20px} .ptb {padding: 2em 0;}
+.padding-side {padding-left:20px;padding-right:20px} .mbs {margin-bottom:10px}.mbm{margin-bottom:15px}.mbl {margin-bottom:20px}.mbxl {margin-bottom:40px} .mbxxl{margin-bottom:60px} .mtm {margin-top:10px}.mtl {margin-top:20px}.mtxl {margin-top:40px}.pll {padding-left:30px}.clear {clear:both}.space {margin:3em 0} 
 #skills h4 {color:#0e1e2a; font-size:24px} 
-#skills p {color:#4b5d27} .right {float:right}
+#skills p {color:#15191d} .right {float:right}
 .boxpad {padding:6em 0;}.section-title {color:#0e1e2b} .section-title-2 {color:#d1d8de}
 #scon ul {overflow:hidden;padding-left:5.5rem;}
 #scon ul li {float:left; margin:0 3px;list-style-type:none;}
 #scon li a {color:rgba(255,255,255,0.6);font-size:1.7rem;text-decoration:none;}
 #scon li a:hover {color:fff}
 .txtlft {text-align:left;}
-.gren {color:#78cc00}
+.gren {color:#698b3b}
 .dark {color:#0e1e2b}
+.white {color:#d1d8de}
 #main {color:#0e1e2a}
 #main p {font-size:17px;color:#d1d8de}
