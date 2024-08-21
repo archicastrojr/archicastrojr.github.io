@@ -2716,4 +2716,20 @@ a.thumbnail {
 @media print, screen and (max-width: 320px) {
 .mtc {text-align:center}
 .profile {margin:10px 0 20px!important}
+.ppic {width: 60%;}
+.align-center {text-align: center;}
+}
+
+@media print, screen and (max-width: 40em) {
+.ppic {width: 60%; margin-bottom: 1em;}
+.align-center {text-align: center;}
+.profile {margin: 1em 0!important;}
+.pll {padding-left:0!important;}
+#ftab h1 {font-size:34px;}
+.mtop {margin-top:10px;}
+.mtop2 {margin-top:20px;}
+.boxpad {padding:30px 10px 20px 10px!important;text-align: center;}
+.psvl {padding: 0 1em!important;}
+.boxpad ul {padding-left :0px!important;}
+.callout li {list-style-type:none!important;}
 }
